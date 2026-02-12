@@ -1,0 +1,1 @@
+# CrowdStrike-Correlation-Rule-Exporter
